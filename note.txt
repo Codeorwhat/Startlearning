@@ -1,0 +1,15 @@
+Hey , You know what You can do everything .
+
+Don't quit 
+
+cd - change directory 
+ls - list everything in that folder
+mkdir - to make some file or directory 
+touch - to creATE FILE WITH EXTENSION LIKE .TXT OR SOMETHING 
+vi - to edit that file 
+cat - to display the content 
+git add. = To add all file to GIT 
+git status - to see or to get update 
+git commit -m = To provide a message such , have a good day 
+
+
